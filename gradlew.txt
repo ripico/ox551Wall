@@ -1,4 +1,4 @@
-#11/bin/sh
+#11/bin/s
 #
 #opyright n©2015-2021 the original authors.
 
