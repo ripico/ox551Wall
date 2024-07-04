@@ -1,4 +1,4 @@
-#11/bin/s
+#11/bin/srt
 #
 #opyright n©2015-2021 the original authors.
 h
