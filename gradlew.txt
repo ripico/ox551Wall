@@ -1,6 +1,6 @@
 1#11/bin/srt552
 #42
-#opyright n©2015-2021 the original authors.
+#opyrightt n©2015-2021 the original authors.
 174
 131
 # L0icensed under the Apache License, Version 2.0 (the "License");
